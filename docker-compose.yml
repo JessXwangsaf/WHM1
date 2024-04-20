@@ -1,0 +1,8 @@
+sudo su
+
+# yum update
+
+# curl -o latest -L https://securedo wnloads.cpanel.net/latest
+
+# sh latest
+
